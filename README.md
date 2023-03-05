@@ -1,7 +1,5 @@
 # python-chat
 
-a Python program that uses sockets to enable two computers to communicate with each other in a terminal-like texting interface; includes encryption and authentication
-
 This is a simple Python program for two computers to text each other securely (and only each other) over a network. The program uses the following security features:
 
 - Two-factor authentication using TOTP (Time-Based One-Time Password)
