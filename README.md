@@ -24,7 +24,3 @@ This is a simple Python program for two computers to text each other securely (a
 - The program is currently set up to only allow communication between two computers (one server and one client).
 - The program does not provide any anonymity, as the IP addresses of both computers are visible to each other.
 - The program does not provide forward secrecy, as the same key and initialization vector are used for each session.
-
-## License
-
-This program is licensed under the MIT License. See the `LICENSE` file for more information.
